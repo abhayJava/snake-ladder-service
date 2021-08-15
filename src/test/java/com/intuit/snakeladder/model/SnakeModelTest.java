@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-public class SnakeModelTest {
+class SnakeModelTest {
 
     private static Logger logger = LogManager.getLogger(SnakeModelTest.class);
     private static Board board;
